@@ -1,0 +1,10 @@
+[config]
+
+name="GodotGooglePlayIntegrity"
+binary_type="local"
+binary="GodotGooglePlayIntegrity-debug.aar"
+
+[dependencies]
+
+remote=["com.google.android.play:integrity:1.0.1", "com.google.android.gms:play-services-tasks:18.0.2"]
+
