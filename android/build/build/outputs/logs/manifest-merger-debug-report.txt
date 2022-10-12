@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 meta-data#org.godotengine.editor.version
-INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:29:9-31:53
+INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:29:9-31:53
 	android:value
-		INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml
+		INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml
 manifest
-ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:2:1-83:12
-INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:2:1-83:12
-INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:2:1-83:12
-INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:2:1-83:12
-MERGED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:2:1-83:12
-MERGED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/620687e5ceef01972e95cab456d7461f/transformed/jetified-godot-lib.debug/AndroidManifest.xml:2:1-26:12
-MERGED from [GodotGooglePlayIntegrity-debug.aar] /home/krypt/.gradle/caches/transforms-3/a07b7a8799905a3d3c491b4b66962358/transformed/jetified-GodotGooglePlayIntegrity-debug/AndroidManifest.xml:2:1-15:12
+ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:2:1-83:12
+INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:2:1-83:12
+INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:2:1-83:12
+INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:2:1-83:12
+MERGED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:2:1-83:12
+MERGED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/45238baf7ba0c496df7bcb754f89fffc/transformed/jetified-godot-lib.debug/AndroidManifest.xml:2:1-26:12
+MERGED from [GodotGooglePlayIntegrity-debug.aar] /home/krypt/.gradle/caches/transforms-3/551e3762e18a9a885f35409b5a02dbee/transformed/jetified-GodotGooglePlayIntegrity-debug/AndroidManifest.xml:2:1-15:12
 MERGED from [com.google.android.play:integrity:1.0.1] /home/krypt/.gradle/caches/transforms-3/9ebdc4572758535d59e2bc380d634f5a/transformed/jetified-integrity-1.0.1/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/krypt/.gradle/caches/transforms-3/47acb6beeb3baba54823fa79cf3be137/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/krypt/.gradle/caches/transforms-3/19b41cd2d9645f5f331e269d2e2ae7d9/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
@@ -30,58 +30,59 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/krypt/.gradle/ca
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/krypt/.gradle/caches/transforms-3/047bd961e46425e1eb485b8a5b77ff3e/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/krypt/.gradle/caches/transforms-3/c69a5a56921f51af48841f8791f47335/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/krypt/.gradle/caches/transforms-3/e4217af4db7ccd7a51ced15cc033f4e6/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/src/debug/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/src/debug/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/src/debug/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml:2:1-27:12
 	package
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:4:5-29
-		INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:4:5-29
-		INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/src/debug/AndroidManifest.xml
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:4:5-29
+		INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:4:5-29
+		INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml
 	android:versionName
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:6:5-30
-		INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:6:5-30
-		INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/src/debug/AndroidManifest.xml
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:6:5-30
+		INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:6:5-30
+		INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:3:5-51
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:3:5-51
 	xmlns:android
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:2:11-69
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:5:5-28
-		INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:5:5-28
-		INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/src/debug/AndroidManifest.xml
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:5:5-28
+		INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:5:5-28
+		INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml
 	android:installLocation
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:7:5-35
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:7:5-35
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:7:5-35
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:7:5-35
 supports-screens
-ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:9:5-13:40
-REJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:9:5-13:40
+ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:9:5-13:40
+REJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:9:5-13:40
 	tools:node
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/src/debug/AndroidManifest.xml:5:9-29
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml:5:9-29
 	android:largeScreens
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:12:9-36
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:12:9-36
 	android:smallScreens
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:10:9-36
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:10:9-36
 	android:normalScreens
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:11:9-37
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:11:9-37
 	android:xlargeScreens
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:13:9-37
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:13:9-37
 uses-feature#0x00020000
-ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:15:5-17:35
+ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:15:5-17:35
+REJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml:15:5-17:35
 	android:glEsVersion
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:16:9-41
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:16:9-41
 	android:required
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:17:9-32
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:17:9-32
 application
-ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:19:5-81:19
-MERGED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:19:5-81:19
-MERGED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:19:5-81:19
-MERGED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/620687e5ceef01972e95cab456d7461f/transformed/jetified-godot-lib.debug/AndroidManifest.xml:10:5-24:19
-MERGED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/620687e5ceef01972e95cab456d7461f/transformed/jetified-godot-lib.debug/AndroidManifest.xml:10:5-24:19
-MERGED from [GodotGooglePlayIntegrity-debug.aar] /home/krypt/.gradle/caches/transforms-3/a07b7a8799905a3d3c491b4b66962358/transformed/jetified-GodotGooglePlayIntegrity-debug/AndroidManifest.xml:9:5-13:19
-MERGED from [GodotGooglePlayIntegrity-debug.aar] /home/krypt/.gradle/caches/transforms-3/a07b7a8799905a3d3c491b4b66962358/transformed/jetified-GodotGooglePlayIntegrity-debug/AndroidManifest.xml:9:5-13:19
+ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:19:5-81:19
+MERGED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:19:5-81:19
+MERGED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:19:5-81:19
+MERGED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/45238baf7ba0c496df7bcb754f89fffc/transformed/jetified-godot-lib.debug/AndroidManifest.xml:10:5-24:19
+MERGED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/45238baf7ba0c496df7bcb754f89fffc/transformed/jetified-godot-lib.debug/AndroidManifest.xml:10:5-24:19
+MERGED from [GodotGooglePlayIntegrity-debug.aar] /home/krypt/.gradle/caches/transforms-3/551e3762e18a9a885f35409b5a02dbee/transformed/jetified-GodotGooglePlayIntegrity-debug/AndroidManifest.xml:9:5-13:19
+MERGED from [GodotGooglePlayIntegrity-debug.aar] /home/krypt/.gradle/caches/transforms-3/551e3762e18a9a885f35409b5a02dbee/transformed/jetified-GodotGooglePlayIntegrity-debug/AndroidManifest.xml:9:5-13:19
 MERGED from [com.google.android.play:integrity:1.0.1] /home/krypt/.gradle/caches/transforms-3/9ebdc4572758535d59e2bc380d634f5a/transformed/jetified-integrity-1.0.1/AndroidManifest.xml:5:5-6:19
 MERGED from [com.google.android.play:integrity:1.0.1] /home/krypt/.gradle/caches/transforms-3/9ebdc4572758535d59e2bc380d634f5a/transformed/jetified-integrity-1.0.1/AndroidManifest.xml:5:5-6:19
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/krypt/.gradle/caches/transforms-3/47acb6beeb3baba54823fa79cf3be137/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
@@ -93,120 +94,120 @@ MERGED from [androidx.core:core:1.2.0] /home/krypt/.gradle/caches/transforms-3/9
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/krypt/.gradle/caches/transforms-3/94bfa100131eb1142c789d7dc47b5f31/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/krypt/.gradle/caches/transforms-3/94bfa100131eb1142c789d7dc47b5f31/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:requestLegacyExternalStorage
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:25:9-53
-		REJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:25:9-53
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:25:9-53
+		REJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:25:9-53
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.2.0] /home/krypt/.gradle/caches/transforms-3/9617710e59968e2412aeb3b23f549743/transformed/core-1.2.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:20:9-58
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:20:9-58
 	tools:ignore
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:26:9-48
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:26:9-48
 	android:icon
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:22:9-36
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:22:9-36
 	android:allowBackup
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:21:9-36
-		REJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:21:9-36
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:21:9-36
+		REJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:21:9-36
 	tools:replace
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/src/debug/AndroidManifest.xml:16:9-123
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml:17:9-123
 	android:isGame
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:23:9-30
-		REJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:23:9-30
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:23:9-30
+		REJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:23:9-30
 	android:hasFragileUserData
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:24:9-43
-		REJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:24:9-43
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:24:9-43
+		REJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:24:9-43
 meta-data#xr_hand_tracking_metadata_name
-ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:39:9-41:62
-REJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:39:9-41:62
+ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:39:9-41:62
+REJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:39:9-41:62
 	tools:node
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/src/debug/AndroidManifest.xml:20:20-39
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml:21:20-39
 	android:value
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:41:13-60
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:41:13-60
 	android:name
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:40:13-58
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:40:13-58
 meta-data#xr_hand_tracking_version_name
-ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:46:9-48:61
-REJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:46:9-48:61
+ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:46:9-48:61
+REJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:46:9-48:61
 	tools:node
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/src/debug/AndroidManifest.xml:19:20-39
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml:20:20-39
 	android:value
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:48:13-59
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:48:13-59
 	android:name
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:47:13-57
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:47:13-57
 meta-data#com.oculus.supportedDevices
-ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:52:9-54:35
-REJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:52:9-54:35
+ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:52:9-54:35
+REJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:52:9-54:35
 	tools:node
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/src/debug/AndroidManifest.xml:21:20-39
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml:22:20-39
 	android:value
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:54:13-32
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:54:13-32
 	android:name
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:53:13-55
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:53:13-55
 activity#com.godot.game.GodotApp
-ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:56:9-79:20
-MERGED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:56:9-79:20
-MERGED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:56:9-79:20
+ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:56:9-79:20
+MERGED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:56:9-79:20
+MERGED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:56:9-79:20
 	android:screenOrientation
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:63:13-50
-		REJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:63:13-50
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:63:13-50
+		REJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:63:13-50
 	android:label
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:58:13-62
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:58:13-62
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:58:13-62
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:58:13-62
 	android:excludeFromRecents
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:61:13-47
-		REJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:61:13-47
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:61:13-47
+		REJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:61:13-47
 	android:launchMode
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:60:13-44
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:60:13-44
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:60:13-44
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:60:13-44
 	android:exported
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:62:13-36
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:62:13-36
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:62:13-36
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:62:13-36
 	android:resizeableActivity
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:65:13-47
-		REJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:65:13-47
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:65:13-47
+		REJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:65:13-47
 	tools:ignore
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:66:13-43
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:66:13-43
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:66:13-43
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:66:13-43
 	android:configChanges
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:64:13-141
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:64:13-141
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:64:13-141
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:64:13-141
 	android:theme
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:59:13-55
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:59:13-55
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:59:13-55
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:59:13-55
 	tools:replace
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/src/debug/AndroidManifest.xml:22:58-153
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml:23:58-153
 	android:name
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:57:13-37
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:57:13-37
 meta-data#com.oculus.vr.focusaware
-ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:69:13-87
-REJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:69:13-87
+ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:69:13-87
+REJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:69:13-87
 	tools:node
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/src/debug/AndroidManifest.xml:23:24-43
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml:24:24-43
 	android:value
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:69:64-84
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:69:64-84
 	android:name
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:69:24-63
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:69:24-63
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.oculus.intent.category.VR
-ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:71:13-78:29
+ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:71:13-78:29
 action#android.intent.action.MAIN
-ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:72:17-69
+ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:72:17-69
 	android:name
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:72:25-66
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:72:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:73:17-77
+ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:73:17-77
 	android:name
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:73:27-74
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:73:27-74
 category#com.oculus.intent.category.VR
-ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:77:17-74
+ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:77:17-74
 	android:name
-		ADDED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml:77:27-71
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml:77:27-71
 uses-sdk
-INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml
-INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml
-MERGED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/620687e5ceef01972e95cab456d7461f/transformed/jetified-godot-lib.debug/AndroidManifest.xml:6:5-8:41
-MERGED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/620687e5ceef01972e95cab456d7461f/transformed/jetified-godot-lib.debug/AndroidManifest.xml:6:5-8:41
-MERGED from [GodotGooglePlayIntegrity-debug.aar] /home/krypt/.gradle/caches/transforms-3/a07b7a8799905a3d3c491b4b66962358/transformed/jetified-GodotGooglePlayIntegrity-debug/AndroidManifest.xml:5:5-7:41
-MERGED from [GodotGooglePlayIntegrity-debug.aar] /home/krypt/.gradle/caches/transforms-3/a07b7a8799905a3d3c491b4b66962358/transformed/jetified-GodotGooglePlayIntegrity-debug/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml
+INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml
+MERGED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/45238baf7ba0c496df7bcb754f89fffc/transformed/jetified-godot-lib.debug/AndroidManifest.xml:6:5-8:41
+MERGED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/45238baf7ba0c496df7bcb754f89fffc/transformed/jetified-godot-lib.debug/AndroidManifest.xml:6:5-8:41
+MERGED from [GodotGooglePlayIntegrity-debug.aar] /home/krypt/.gradle/caches/transforms-3/551e3762e18a9a885f35409b5a02dbee/transformed/jetified-GodotGooglePlayIntegrity-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [GodotGooglePlayIntegrity-debug.aar] /home/krypt/.gradle/caches/transforms-3/551e3762e18a9a885f35409b5a02dbee/transformed/jetified-GodotGooglePlayIntegrity-debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.play:integrity:1.0.1] /home/krypt/.gradle/caches/transforms-3/9ebdc4572758535d59e2bc380d634f5a/transformed/jetified-integrity-1.0.1/AndroidManifest.xml:4:5-44
 MERGED from [com.google.android.play:integrity:1.0.1] /home/krypt/.gradle/caches/transforms-3/9ebdc4572758535d59e2bc380d634f5a/transformed/jetified-integrity-1.0.1/AndroidManifest.xml:4:5-44
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/krypt/.gradle/caches/transforms-3/47acb6beeb3baba54823fa79cf3be137/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
@@ -245,40 +246,46 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/krypt/.gradle/caches/t
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/krypt/.gradle/caches/transforms-3/c69a5a56921f51af48841f8791f47335/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/krypt/.gradle/caches/transforms-3/e4217af4db7ccd7a51ced15cc033f4e6/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/krypt/.gradle/caches/transforms-3/e4217af4db7ccd7a51ced15cc033f4e6/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/src/debug/AndroidManifest.xml
-INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/src/debug/AndroidManifest.xml
+INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml
+INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml
-		INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/src/debug/AndroidManifest.xml
+		INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml
+		INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/AndroidManifest.xml
-		INJECTED from /home/krypt/myStuff/godot/Empty game/android/build/src/debug/AndroidManifest.xml
+		INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/AndroidManifest.xml
+		INJECTED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml:10:5-78
+	android:glEsVersion
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml:10:19-51
+	android:required
+		ADDED from /home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/src/debug/AndroidManifest.xml:10:52-75
 meta-data#org.godotengine.library.version
-ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/620687e5ceef01972e95cab456d7461f/transformed/jetified-godot-lib.debug/AndroidManifest.xml:13:9-15:43
+ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/45238baf7ba0c496df7bcb754f89fffc/transformed/jetified-godot-lib.debug/AndroidManifest.xml:13:9-15:42
 	android:value
-		ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/620687e5ceef01972e95cab456d7461f/transformed/jetified-godot-lib.debug/AndroidManifest.xml:15:13-40
+		ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/45238baf7ba0c496df7bcb754f89fffc/transformed/jetified-godot-lib.debug/AndroidManifest.xml:15:13-39
 	android:name
-		ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/620687e5ceef01972e95cab456d7461f/transformed/jetified-godot-lib.debug/AndroidManifest.xml:14:13-59
+		ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/45238baf7ba0c496df7bcb754f89fffc/transformed/jetified-godot-lib.debug/AndroidManifest.xml:14:13-59
 service#org.godotengine.godot.GodotDownloaderService
-ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/620687e5ceef01972e95cab456d7461f/transformed/jetified-godot-lib.debug/AndroidManifest.xml:17:9-80
+ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/45238baf7ba0c496df7bcb754f89fffc/transformed/jetified-godot-lib.debug/AndroidManifest.xml:17:9-80
 	android:name
-		ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/620687e5ceef01972e95cab456d7461f/transformed/jetified-godot-lib.debug/AndroidManifest.xml:17:18-77
+		ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/45238baf7ba0c496df7bcb754f89fffc/transformed/jetified-godot-lib.debug/AndroidManifest.xml:17:18-77
 activity#org.godotengine.godot.utils.ProcessPhoenix
-ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/620687e5ceef01972e95cab456d7461f/transformed/jetified-godot-lib.debug/AndroidManifest.xml:19:9-23:75
+ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/45238baf7ba0c496df7bcb754f89fffc/transformed/jetified-godot-lib.debug/AndroidManifest.xml:19:9-23:75
 	android:process
-		ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/620687e5ceef01972e95cab456d7461f/transformed/jetified-godot-lib.debug/AndroidManifest.xml:22:13-39
+		ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/45238baf7ba0c496df7bcb754f89fffc/transformed/jetified-godot-lib.debug/AndroidManifest.xml:22:13-39
 	android:exported
-		ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/620687e5ceef01972e95cab456d7461f/transformed/jetified-godot-lib.debug/AndroidManifest.xml:21:13-37
+		ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/45238baf7ba0c496df7bcb754f89fffc/transformed/jetified-godot-lib.debug/AndroidManifest.xml:21:13-37
 	android:theme
-		ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/620687e5ceef01972e95cab456d7461f/transformed/jetified-godot-lib.debug/AndroidManifest.xml:23:13-72
+		ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/45238baf7ba0c496df7bcb754f89fffc/transformed/jetified-godot-lib.debug/AndroidManifest.xml:23:13-72
 	android:name
-		ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/620687e5ceef01972e95cab456d7461f/transformed/jetified-godot-lib.debug/AndroidManifest.xml:20:13-70
+		ADDED from [godot-lib.debug.aar] /home/krypt/.gradle/caches/transforms-3/45238baf7ba0c496df7bcb754f89fffc/transformed/jetified-godot-lib.debug/AndroidManifest.xml:20:13-70
 meta-data#org.godotengine.plugin.v1.GodotGooglePlayIntegrity
-ADDED from [GodotGooglePlayIntegrity-debug.aar] /home/krypt/.gradle/caches/transforms-3/a07b7a8799905a3d3c491b4b66962358/transformed/jetified-GodotGooglePlayIntegrity-debug/AndroidManifest.xml:10:9-12:105
+ADDED from [GodotGooglePlayIntegrity-debug.aar] /home/krypt/.gradle/caches/transforms-3/551e3762e18a9a885f35409b5a02dbee/transformed/jetified-GodotGooglePlayIntegrity-debug/AndroidManifest.xml:10:9-12:105
 	android:value
-		ADDED from [GodotGooglePlayIntegrity-debug.aar] /home/krypt/.gradle/caches/transforms-3/a07b7a8799905a3d3c491b4b66962358/transformed/jetified-GodotGooglePlayIntegrity-debug/AndroidManifest.xml:12:13-102
+		ADDED from [GodotGooglePlayIntegrity-debug.aar] /home/krypt/.gradle/caches/transforms-3/551e3762e18a9a885f35409b5a02dbee/transformed/jetified-GodotGooglePlayIntegrity-debug/AndroidManifest.xml:12:13-102
 	android:name
-		ADDED from [GodotGooglePlayIntegrity-debug.aar] /home/krypt/.gradle/caches/transforms-3/a07b7a8799905a3d3c491b4b66962358/transformed/jetified-GodotGooglePlayIntegrity-debug/AndroidManifest.xml:11:13-78
+		ADDED from [GodotGooglePlayIntegrity-debug.aar] /home/krypt/.gradle/caches/transforms-3/551e3762e18a9a885f35409b5a02dbee/transformed/jetified-GodotGooglePlayIntegrity-debug/AndroidManifest.xml:11:13-78
 meta-data#com.google.android.gms.version
 ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/krypt/.gradle/caches/transforms-3/19b41cd2d9645f5f331e269d2e2ae7d9/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
 	android:value

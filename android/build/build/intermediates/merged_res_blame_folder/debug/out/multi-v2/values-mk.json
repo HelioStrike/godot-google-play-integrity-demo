@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/krypt/myStuff/godot/Empty game/android/build/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "outputFile": "/home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
             "map": [
                 {
                     "source": "/home/krypt/.gradle/caches/transforms-3/19b41cd2d9645f5f331e269d2e2ae7d9/transformed/jetified-play-services-basement-18.1.0/res/values-mk/values.xml",

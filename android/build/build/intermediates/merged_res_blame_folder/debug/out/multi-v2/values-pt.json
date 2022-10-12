@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/krypt/myStuff/godot/Empty game/android/build/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
+            "outputFile": "/home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
             "map": [
                 {
                     "source": "/home/krypt/.gradle/caches/transforms-3/9617710e59968e2412aeb3b23f549743/transformed/core-1.2.0/res/values-pt/values-pt.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/krypt/myStuff/godot/Empty game/android/build/res/values-pt/godot_project_name_string.xml",
+                    "source": "/home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/res/values-pt/godot_project_name_string.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "1",

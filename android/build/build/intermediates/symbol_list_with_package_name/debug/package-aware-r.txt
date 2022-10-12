@@ -173,6 +173,7 @@ mipmap icon
 mipmap icon_background
 mipmap icon_foreground
 string common_google_play_services_unknown_issue
+string error_engine_setup_message
 string godot_project_name_string
 string kilobytes_per_second
 string notification_download_complete
@@ -202,6 +203,7 @@ string text_button_pause
 string text_button_resume
 string text_button_resume_cellular
 string text_button_wifi_settings
+string text_error_title
 string text_paused_cellular
 string text_paused_cellular_2
 string text_validation_complete

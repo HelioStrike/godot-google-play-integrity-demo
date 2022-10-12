@@ -1,9 +1,9 @@
-#Sat Sep 10 14:15:20 IST 2022
-base.2=/home/krypt/myStuff/godot/Empty game/android/build/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
+#Wed Oct 12 19:07:20 IST 2022
+base.2=/home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
 path.2=6/classes.dex
-base.1=/home/krypt/myStuff/godot/Empty game/android/build/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.1=/home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 path.1=0/classes.dex
-base.0=/home/krypt/myStuff/godot/Empty game/android/build/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.0=/home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex

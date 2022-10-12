@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "/home/krypt/myStuff/godot/Empty game/android/build/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml",
+            "outputFile": "/home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml",
             "map": [
+                {
+                    "source": "/home/krypt/myStuff/github/godot-google-play-integrity-demo/android/build/res/values-lt/godot_project_name_string.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "1",
+                        "startOffsets": "112",
+                        "endColumns": "61",
+                        "endOffsets": "172"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "214",
+                        "endColumns": "64",
+                        "endOffsets": "274"
+                    }
+                },
                 {
                     "source": "/home/krypt/.gradle/caches/transforms-3/9617710e59968e2412aeb3b23f549743/transformed/core-1.2.0/res/values-lt/values-lt.xml",
                     "from": {
@@ -18,23 +35,6 @@
                         "startOffsets": "279",
                         "endColumns": "100",
                         "endOffsets": "375"
-                    }
-                },
-                {
-                    "source": "/home/krypt/myStuff/godot/Empty game/android/build/res/values-lt/godot_project_name_string.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "1",
-                        "startOffsets": "112",
-                        "endColumns": "61",
-                        "endOffsets": "172"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "214",
-                        "endColumns": "64",
-                        "endOffsets": "274"
                     }
                 },
                 {

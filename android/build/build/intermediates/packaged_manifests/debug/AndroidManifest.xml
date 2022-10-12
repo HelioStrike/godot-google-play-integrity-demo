@@ -16,7 +16,7 @@
         android:xlargeScreens="true" />
 
     <uses-feature
-        android:glEsVersion="0x00020000"
+        android:glEsVersion="0x00030000"
         android:required="true" />
 
     <application
@@ -53,10 +53,10 @@
         <!-- Records the version of the Godot editor used for building -->
         <meta-data
             android:name="org.godotengine.editor.version"
-            android:value="4.0.alpha" /> <!-- Records the version of the Godot library -->
+            android:value="4.0.beta" /> <!-- Records the version of the Godot library -->
         <meta-data
             android:name="org.godotengine.library.version"
-            android:value="4.0.0.alpha" />
+            android:value="4.0.0.beta" />
 
         <service android:name="org.godotengine.godot.GodotDownloaderService" />
 
